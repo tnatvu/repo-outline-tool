@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="repo-outline-tool",
-    version="0.1.0",
+    version="0.1.1",
     description="A tool to generate a markdown representation of a repository structure.",
     author="Tina Vu",
     author_email="tina.vtt@gmail.com",
